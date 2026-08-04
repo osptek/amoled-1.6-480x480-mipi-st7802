@@ -115,6 +115,7 @@ Current module version: **AM160Q480480LK4**. Electrical and mechanical details f
 - Technical support / product inquiry: <luyu@osptek.com>
 - QQ group (China): **985881096**
 - Website: <https://osptek.com/>
+- For questions or problems, you can also open a GitHub [Issue](https://github.com/osptek/1.6-amoled-480x480-mipi-st7802/issues)
 
 ---
 
