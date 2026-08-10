@@ -47,6 +47,7 @@ Repo id: `1.6-amoled-480x480-mipi-st7802`
 <p align="center"><img alt="AM160Q480480LK4" src="./images/AM160Q480480LK4.png" width="320" /></p>
 
 **Notes:** With touch (CST9220).
+
 ---
 
 ## How to Switch Branches

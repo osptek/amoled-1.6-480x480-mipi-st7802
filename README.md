@@ -47,6 +47,7 @@
 <p align="center"><img alt="AM160Q480480LK4" src="./images/AM160Q480480LK4.png" width="320" /></p>
 
 **说明：** 带触摸（CST9220）。
+
 ---
 
 ## 如何切换分支
