@@ -1,3 +1,10 @@
+/*
+ * SPDX-FileCopyrightText: Copyright 2026 OSPTEK
+ * SPDX-License-Identifier: CC-BY-4.0
+ *
+ * https://github.com/osptek
+ */
+
 /**
  * @file main.c
  * @brief Unified LVGL demo supporting multiple LCD interface types
