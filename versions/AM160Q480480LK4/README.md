@@ -31,7 +31,7 @@
 
 OSPTEK **1.6 寸 480×480 AMOLED** 是一款 **MIPI DSI** 接口彩色显示模组，显示驱动为 **ST7802**，触摸驱动为 **CST9220**。方形分辨率适合圆形穿戴表盘与紧凑 HMI 等场景。
 
-规格标识（仓库名）：`1.6-amoled-480x480-mipi-st7802`
+规格标识（仓库名）：`amoled-1.6-480x480-mipi-st7802`
 
 当前模组版本：**AM160Q480480LK4**。电气与外形细节以 [`docs/AM160Q480480LK4.pdf`](./docs/AM160Q480480LK4.pdf) 为准。
 
@@ -61,7 +61,7 @@ OSPTEK **1.6 寸 480×480 AMOLED** 是一款 **MIPI DSI** 接口彩色显示模�
 ## 仓库结构
 
 ```text
-1.6-amoled-480x480-mipi-st7802/                                # 仓库根（导航见 ../../README.md）
+amoled-1.6-480x480-mipi-st7802/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM160Q480480LK4/                                # 本料号完整资料
         ├── README.md

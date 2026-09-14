@@ -31,7 +31,7 @@
 
 OSPTEK **1.6″ 480×480 AMOLED** is a **MIPI DSI** color display module driven by **ST7802**, with touch controller **CST9220**. The square resolution suits round wearables and compact HMI.
 
-Spec ID (repository name): `1.6-amoled-480x480-mipi-st7802`
+Spec ID (repository name): `amoled-1.6-480x480-mipi-st7802`
 
 Current module version: **AM160Q480480LK4**. Electrical and mechanical details follow [`docs/AM160Q480480LK4.pdf`](./docs/AM160Q480480LK4.pdf).
 
@@ -61,7 +61,7 @@ Current module version: **AM160Q480480LK4**. Electrical and mechanical details f
 ## Repository layout
 
 ```text
-1.6-amoled-480x480-mipi-st7802/                                # repo root (nav: ../../README_EN.md)
+amoled-1.6-480x480-mipi-st7802/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM160Q480480LK4/                                # full materials for this part number
         ├── README.md
