@@ -1,0 +1,14 @@
+id: amoled-1.6-480x480-mipi-st7802
+category: displays
+
+size: "1.6"
+panel: amoled
+resolution: 480x480
+interface: [mipi]
+shape: round
+
+versions:
+  - id: AM160Q480480LK4
+    driver: ST7802
+    touch: CST9220
+    note: none
